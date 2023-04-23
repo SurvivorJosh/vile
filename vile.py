@@ -10,7 +10,7 @@ except:
     
     
     
-__VERSION__ = '1.0638247493'  
+__VERSION__ = '1.7382047493'  
 
 try:
     os.system('cls')
